@@ -1,6 +1,3 @@
-"# java study " 
-
-
 # VSCODE JAVA 환경설정 가이드
 
 ![image](https://user-images.githubusercontent.com/79128042/147639907-b7be530c-31e4-4789-b9e1-30d3a63d2279.png)
