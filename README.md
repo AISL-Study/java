@@ -1,5 +1,19 @@
 # 세종대학교 자율지능시스템 스터디 [JAVA]
 
+[2021.12.30 Update]
+
+- Big O and Time Complexity
+- Array
+- Linked List
+- Recursive
+- Linear : Stack / Queue / Circular Queue / Deque
+- Nonlinear : Tree / Heap Tree
+- Sort
+
+* Appendix
+- 깊은복사와 얕은복사
+- 자바의 데이터 저장 [스택,힙,메서드]
+- 자바에 포인터가 없는 이유
 
 
 # VSCODE JAVA 환경설정 가이드
