@@ -16,9 +16,9 @@
 - 자바에 포인터가 없는 이유
 
 # 참여 인원
-Responsibility
+- Responsibility
 장효창 이동훈 오현수
-Study
+- Study
 주형준 조중호 김상군 정혜령 김유진 
 
 
